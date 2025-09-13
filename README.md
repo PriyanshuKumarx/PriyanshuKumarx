@@ -5,7 +5,7 @@
 <div align="center">
   
 ![GitHub Profile Views](https://komarev.com/ghpvc/?username=PriyanshuKumarx&color=blueviolet&style=flat-square)
-[![Twitter Follow](https://img.shields.io/twitter/follow/yourusername?style=social)](https://twitter.com/Priyanshu9988x)
+[![Twitter Follow](https://img.shields.io/twitter/follow/Priyanshu9988x?style=social)](https://twitter.com/Priyanshu9988x)
 
 </div>
 
