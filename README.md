@@ -57,6 +57,7 @@
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 
 </div>
 
@@ -68,17 +69,18 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 </div>
 
 ### ⚙️ Backend & Tools
 <div align="center">
   
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
+![Dlib](https://img.shields.io/badge/Dlib-008000?style=for-the-badge&logo=python&logoColor=white)
 
 </div>
 
@@ -100,15 +102,60 @@
 
 ## 🎯 Featured Projects
 
-<div align="center">
+### 🩺 Skin Cancer Detection System
+**Technologies:** Python, TensorFlow, FastAPI, React, OpenCV, NumPy  
+**Timeline:** June 2025  
 
-| Project | Description | Technologies |
-| :--- | :--- | :--- |
-| **[AI Vision Project](https://github.com/PriyanshuKumarx/)** | Computer vision application for object detection | Python, OpenCV, TensorFlow |
-| **[Smart Dashboard](https://github.com/PriyanshuKumarx/)** | AI-powered analytics dashboard with React | React, D3.js, FastAPI |
-| **[ML API Service](https://github.com/PriyanshuKumarx/)** | Scalable machine learning model deployment | FastAPI, Docker, AWS |
+<div align="center">
+  
+![Accuracy](https://img.shields.io/badge/Accuracy-87%25-brightgreen) 
+![Processing](https://img.shields.io/badge/Processing-30%25_faster-important) 
+![Medical AI](https://img.shields.io/badge/Medical-AI-blueviolet)
 
 </div>
+
+- Designed a full-stack dermatological diagnosis system using CNNs to classify 7 types of skin diseases
+- Implemented FastAPI backend delivering predictions and heatmap visualizations (Grad-CAM) for medical interpretability
+- Optimized image preprocessing with OpenCV and NumPy for faster batch processing
+- Built patient-centric React frontend with responsive layouts and accessibility features
+
+---
+
+### 📚 YourStudyPlace (EdTech Platform)
+**Technologies:** ReactJs, Firebase, Tailwind CSS  
+**Timeline:** January 2025  
+
+<div align="center">
+  
+![Performance](https://img.shields.io/badge/Bundle_Size-40%25_reduced-success) 
+![Real-time](https://img.shields.io/badge/Real_time-Sync-blue) 
+![Modules](https://img.shields.io/badge/10%2B-Course_Modules-orange)
+
+</div>
+
+- Architected an interactive learning platform with 10+ course modules, collaborative notes, and real-time discussion forums
+- Boosted performance by reducing bundle size by 40% using route-based code splitting and lazy loading
+- Configured Firebase Authentication and Firestore for secure multi-device login and real-time content synchronization
+- Styled a clean, mobile-first UI using Tailwind CSS for consistent cross-device experience
+
+---
+
+### 🚗 Driver Sleep Detection System
+**Technologies:** Python, OpenCV, Dlib, SciPy  
+**Timeline:** November 2024  
+
+<div align="center">
+  
+![Accuracy](https://img.shields.io/badge/Accuracy-92%25-brightgreen) 
+![FPS](https://img.shields.io/badge/Performance-30_FPS-success) 
+![Safety](https://img.shields.io/badge/Safety-Alerts-red)
+
+</div>
+
+- Engineered a drowsiness detection model using EAR and MAR algorithms for live video analysis
+- Applied multithreaded OpenCV pipelines to maintain stable 30 FPS during real-time processing
+- Integrated safety features including audible alerts, auto-capture on fatigue, and real-time fatigue score display
+- Added GPS tracking and fatigue dashboard to monitor and log driver alertness in real time
 
 ---
 
@@ -129,13 +176,8 @@
 
 ### ⚡ Coding Activity
 
-<!--START_SECTION:waka-->
 ```text
 Python        🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦  40.5%
 JavaScript    🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨      32.1%
 HTML/CSS      🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧                18.7%
 Jupyter       🟪🟪🟪🟪🟪🟪🟪                        8.7%
-<!--END_SECTION:waka-->
-https://github.com/PriyanshuKumarx/PriyanshuKumarx/blob/output/github-contribution-grid-snake.svg
-
-</div> ```
