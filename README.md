@@ -2,7 +2,7 @@
 <h3 align="center" style="font-weight:400;">AI Engineer • Computer Vision • Realtime Systems • Frontend Innovator</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&duration=2300&pause=800&color=A855F7&center=true&vCenter=true&width=520&lines=AI+Engineer+%7C+Realtime+Inference;Computer+Vision+%7C+Deep+Learning;Frontend+Developer+%7C+Next.js;Designing+Clean+Intelligent+Experiences" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&duration=2300&pause=800&color=A855F7&center=true&vCenter=true&width=520&lines=AI+Engineer+%7C+Realtime+Inference;Computer+Vision+%7C+Deep+Learning;Frontend+Developer+%7C+React.js;Designing+Clean+Intelligent+Experiences" />
 </p>
 
 <p align="center">
