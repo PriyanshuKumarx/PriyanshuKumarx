@@ -85,7 +85,6 @@ I build AI systems that run **fast**, look **beautiful**, and feel **intelligent
 <p align="center">
   <a href="https://linkedin.com/in/priyanshukumar062003"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
   <a href="mailto:priyanshukumarx7814@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-  <a href="https://instagram.com/priyanshu._in_"><img src="https://skillicons.dev/icons?i=instagram" /></a>
   <a href="https://priyanshukumardev.vercel.app"><img src="https://skillicons.dev/icons?i=vercel" /></a>
 </p>
 
