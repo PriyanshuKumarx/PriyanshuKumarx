@@ -1,130 +1,122 @@
+<!-- HERO SECTION -->
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3500&pause=1000&color=8A2BE2&center=true&vCenter=true&width=550&lines=Hi+👋,+I'm+Priyanshu;AI+Developer+%7C+ML+Engineer;Frontend+Developer+%7C+UI+%2F+UX+Driven;" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=800&color=A855F7&center=true&vCenter=true&width=600&lines=👋+Hi,+I'm+Priyanshu+Kumar;AI+Engineer+%7C+Computer+Vision+Developer;Deep+Learning+%7C+Realtime+Inference+Expert;Frontend+Developer+%7C+UX+Focused" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=PriyanshuKumarx&color=blueviolet&style=flat-square" />
-  <a href="https://twitter.com/Priyanshu9988x">
-    <img src="https://img.shields.io/twitter/follow/Priyanshu9988x?style=social" />
-  </a>
-</p>
-
----
-
-## 🌟 About Me
-
-<p align="center">
-  <em>"Building intelligent systems and transforming AI into beautiful, seamless user experiences."</em>
+  <img src="https://komarev.com/ghpvc/?username=PriyanshuKumarx&color=purple&style=flat-square" />
+  <img src="https://img.shields.io/badge/Focus-AI%20%26%20Realtime%20Systems-purple?style=flat-square" />
+  <img src="https://img.shields.io/badge/Experience-3%2B%20Years-blue?style=flat-square" />
 </p>
 
 ---
 
-## 🚀 What I Do
+# 🚀 About Me  
 
-- 🔭 **Build** AI/ML solutions in Deep Learning, Computer Vision & Real-Time inference  
-- 🎯 **Develop** intelligent and modern frontend experiences  
-- ⚡ **Integrate** AI in full-stack applications  
-- 🌱 Continuously **learning** advanced AI, CUDA optimization & scalable systems  
+I'm an **AI Engineer & Computer Vision Developer**, passionate about building  
+**real-time intelligent systems with seamless UI/UX execution**.
 
----
+I work on:
 
-## 🤝 Let’s Collaborate On
-
-- 🧠 Applied ML & CV Projects  
-- 🎨 AI-powered Frontend Interfaces  
-- 🔍 End-to-end AI systems (model → API → UI)  
-- 🌐 Scalable & modern web apps  
+- 🧠 Deep Learning, CNNs, Vision Transformers  
+- 🎯 Real-time tracking: YOLOv8/YOLOv11, TensorRT, ONNX  
+- 🎮 Sports Analytics (Ball tracking, Court detection, Bounce detection)  
+- 🔍 Custom AI systems for automation  
+- 🌐 Modern frontend with **React, Next.js, Tailwind, Framer Motion**  
+- ⚡ Full-stack AI pipelines (Model → API → Client UI)
 
 ---
 
-# 🛠️ Tech Stack
+# 🛠️ Tech Stack (2025 Updated)
 
-## 🤖 AI / ML & Data Science
+### 🤖 **AI & Machine Learning**
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-130654?style=for-the-badge&logo=pandas&logoColor=white" />
-</p>
-
-## 🌐 Frontend Development
-<p align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-0EA5E9?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-</p>
-
-## ⚙️ Backend, DevTools & More
-<p align="center">
-  <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dlib-008000?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv" />
+  <img src="https://img.shields.io/badge/YOLOv8%2FYOLOv11-FFEA00?style=for-the-badge&logo=ai&logoColor=black" />
+  <img src="https://img.shields.io/badge/TensorRT-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
+  <img src="https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white" />
 </p>
 
 ---
 
-# 📊 GitHub Stats
-
+### 🖥️ **Frontend & UI/UX**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PriyanshuKumarx&show_icons=true&theme=radical&hide_border=true" width="52%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PriyanshuKumarx&layout=compact&theme=radical&hide_border=true" width="44%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PriyanshuKumarx&theme=radical&hide_border=true" width="52%" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,figma" />
+  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
 </p>
 
 ---
 
-# 🎯 Featured Projects
-
-### 🩺 **Skin Cancer Detection (AI + Full Stack)**
-✔️ 87% Accuracy  
-✔️ 30% Faster Processing  
-✔️ TensorFlow · FastAPI · React
-
----
-
-### 📚 **YourStudyPlace (EdTech Platform)**
-✔️ Real-time sync with Firebase  
-✔️ 40% Performance Improvement  
-✔️ React · Tailwind · Firebase  
+### ⚙️ **Backend & Tools**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,firebase,git" />
+  <img src="https://img.shields.io/badge/PyCuda-203040?style=for-the-badge&logo=nvidia" />
+  <img src="https://img.shields.io/badge/OpenVINO-002A3A?style=for-the-badge&logo=intel&logoColor=white" />
+</p>
 
 ---
 
-### 🚗 **Driver Sleep Detection (Real-Time CV)**
-✔️ 92% Accuracy  
-✔️ 30 FPS Real-time  
-✔️ Dlib · OpenCV · Python  
+# 🔥 Featured AI Projects (Updated)
+
+### 🟩 **Pickleball Analytics System (Realtime)**  
+**YOLOv8 + TensorRT + Multi-Model Pipeline**  
+- Court detection (Kalman stabilized)  
+- Ball tracking + speed estimation  
+- Bounce detection snapshot generator  
+- Real-time mini-map player movement  
+- GPU-optimized inference  
+
+---
+
+### 🥭 **Fruit Quality Detection (CNN + Flask Web UI)**  
+- Fresh vs Rotten classification for multiple fruits  
+- Improved avocado accuracy using advanced augmentation  
+- Confusion matrix + evaluation dashboard  
+
+---
+
+### ⌚ **Smartwatch Interface – UI/UX Project**  
+- Minimal + interactive smartwatch OS concept  
+- Handoff animations, 3D transitions, health widgets  
+
+---
+
+### 🎨 **ATS Resume Analyzer Website (Full Stack)**  
+- Next.js + Tailwind  
+- AI-powered score calculation  
+- Clean UI with animated components  
+
+---
+
+# 📊 GitHub Stats (Premium Style)
+
+<p align="center">
+  <img width="52%" src="https://github-readme-stats.vercel.app/api?username=PriyanshuKumarx&show_icons=true&theme=radical&hide_border=true" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PriyanshuKumarx&layout=compact&theme=radical&hide_border=true" />
+  <img width="52%" src="https://github-readme-streak-stats.herokuapp.com/?user=PriyanshuKumarx&theme=radical&hide_border=true" />
+</p>
+
+---
+
+# 🐍 Contribution Snake (Animated)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
 
 ---
 
 # 📫 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/priyanshukumar062003">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:priyanshukumarx7814@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/priyanshu._in_">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://priyanshukumardev.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox-browser&logoColor=white" />
-  </a>
+  <a href="https://linkedin.com/in/priyanshukumar062003"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="mailto:priyanshukumarx7814@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <a href="https://instagram.com/priyanshu._in_"><img src="https://skillicons.dev/icons?i=instagram" /></a>
+  <a href="https://priyanshukumardev.vercel.app"><img src="https://skillicons.dev/icons?i=vercel" /></a>
 </p>
 
 ---
 
-## ⚡ Coding Activity Breakdown
-
-```text
-Python        ████████████████████ 40.5%
-JavaScript    ███████████████      32.1%
-HTML/CSS      █████████            18.7%
-Jupyter       ████                 8.7%
+<p align="center">
+  ⭐ *If you like my work, consider starring a repo or connecting with me!*  
+</p>
